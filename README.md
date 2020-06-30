@@ -5,4 +5,4 @@ It was originally created for the British Library's Endangered Archives Programm
 
 To download the software, click on "Clone", and select "Download Zip".
 
-To find out more about the software, go to the "Wiki" tab.
+To find out more about the software and how it works, go to the "Wiki" tab.
