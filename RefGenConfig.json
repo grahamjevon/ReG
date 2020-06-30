@@ -1,0 +1,13 @@
+{
+"Hierarchy": ["Fonds", "Sub-fonds","Sub-sub-fonds","Sub-sub-sub-fonds","Series","Sub-series","Sub-sub-series","Sub-sub-sub-series","File","Item","Sub-item","Sub-sub-item","Sub-sub-sub-item"],
+"Encoding": "utf-8-sig",
+"ImportFilepath":"",
+"ImportPathUsePrefix": "No",
+"ExcelWorksheet": "Sheet1",
+"HierarchyColumnName": "Level",
+"RefGenColumnName": "Reference",
+"OutputFormat": ".xlsx",
+"OutputFilepath": "",
+"OutputPathUsePrefix":"No"
+}
+
